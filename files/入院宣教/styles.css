@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:826px;
+  width:801px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -13,6 +13,7 @@
   z-index:0;
 }
 #u2407 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -20,6 +21,7 @@
   height:0px;
 }
 #u2408 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -27,36 +29,15 @@
   height:0px;
 }
 #u2409_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:473px;
-  height:954px;
-}
-#u2409 {
-  position:absolute;
-  left:353px;
-  top:98px;
-  width:473px;
-  height:954px;
-  color:#FFFFFF;
-}
-#u2410 {
-  position:absolute;
-  left:2px;
-  top:469px;
-  width:469px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u2411_img {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:422px;
   height:744px;
 }
-#u2411 {
+#u2409 {
+  border-width:0px;
   position:absolute;
   left:378px;
   top:201px;
@@ -64,7 +45,8 @@
   height:744px;
   color:#FFFFFF;
 }
-#u2412 {
+#u2410 {
+  border-width:0px;
   position:absolute;
   left:2px;
   top:364px;
@@ -72,7 +54,8 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u2413_div {
+#u2411_div {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -90,7 +73,8 @@
   box-shadow:none;
   color:#FFFFFF;
 }
-#u2413 {
+#u2411 {
+  border-width:0px;
   position:absolute;
   left:379px;
   top:201px;
@@ -98,7 +82,8 @@
   height:744px;
   color:#FFFFFF;
 }
-#u2414 {
+#u2412 {
+  border-width:0px;
   position:absolute;
   left:2px;
   top:364px;
@@ -106,7 +91,8 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u2415_div {
+#u2413_div {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -119,34 +105,37 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:18px;
   color:#FFFFFF;
   text-align:center;
 }
-#u2415 {
+#u2413 {
+  border-width:0px;
   position:absolute;
   left:499px;
   top:380px;
   width:181px;
   height:44px;
-  font-family:'Arial Negreta', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:18px;
   color:#FFFFFF;
   text-align:center;
 }
-#u2416 {
+#u2414 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:181px;
   white-space:nowrap;
 }
-#u2417_div {
+#u2415_div {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -159,30 +148,33 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
 }
-#u2417 {
+#u2415 {
+  border-width:0px;
   position:absolute;
   left:461px;
   top:274px;
   width:257px;
   height:37px;
-  font-family:'Arial Negreta', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
 }
-#u2418 {
+#u2416 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:257px;
   white-space:nowrap;
 }
-#u2419_div {
+#u2417_div {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -198,7 +190,8 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u2419 {
+#u2417 {
+  border-width:0px;
   position:absolute;
   left:440px;
   top:555px;
@@ -207,28 +200,29 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u2420 {
+#u2418 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:300px;
   word-wrap:break-word;
 }
-#u2421 {
+#u2419 {
+  border-width:0px;
   position:absolute;
   left:520px;
   top:722px;
   width:140px;
   height:25px;
 }
-#u2421_input {
+#u2419_input {
   position:absolute;
   left:0px;
   top:0px;
   width:140px;
   height:25px;
-  background-color:transparent;
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
